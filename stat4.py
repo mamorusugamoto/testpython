@@ -61,4 +61,3 @@ hennsa2 = math.sqrt(bunsan2)
 soukannkeisuu = kyou / (hennsa1 * hennsa2)
 
 print(soukannkeisuu)
-print(bunsan1)
